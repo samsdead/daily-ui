@@ -1,24 +1,35 @@
 body {
   background-color: black;
   color: white;
-  background:url('/Users/saidmoredi/Documents/Web Development/Daily UI/daily-ui/Day 3 Landing Page/images/websitebackground.png') no-repeat center center fixed;
-    -webkit-background-size:cover;
-    -moz-background-size:cover;
-    -o-background-size: cover;
-    background-size: cover;
+  background: url('/Users/saidmoredi/Documents/Web Development/Daily UI/daily-ui/Day 3 Landing Page/images/websitebackground.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
-
-.img-cover{
+.img-cover {
   margin-top: 48%;
 }
 
-.spotify-embed{
+.spotify-embed {
   margin-top: 55%;
 }
 
-.title{
+.title {
   font-family: 'Montserrat', sans-serif;
   padding-top: 5%;
   text-align: center;
+}
+
+i {
+  padding-left: 10px;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: grey;
 }
