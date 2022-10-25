@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  color: white;
+  background:url('/Users/saidmoredi/Documents/Web Development/Daily UI/daily-ui/Day 3 Landing Page/images/websitebackground.png') no-repeat center center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.img-cover{
+  margin-top: 48%;
+}
+
+.spotify-embed{
+  margin-top: 55%;
+}
+
+.title{
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 5%;
+  text-align: center;
+}
